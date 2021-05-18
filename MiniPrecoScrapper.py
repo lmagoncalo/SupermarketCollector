@@ -1,3 +1,4 @@
+import os
 import re
 
 from selenium import webdriver
@@ -50,13 +51,13 @@ class MiniPrecoScrapper:
     def search(self, keyword):
         count = 0
 
-        options = Options()
-        options.headless = True
-        options.add_argument("--window-size=1920,1200")
+        chrome_options = webdriver.ChromeOptions()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
 
-        # DRIVER_PATH = "./geckodriver"
-        DRIVER_PATH = "./geckodriver_2"
-        driver = webdriver.Firefox(options=options, executable_path=DRIVER_PATH)
+        driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
 
         search_url = self.BASE_URL.format(keyword)
         driver.get(search_url)
