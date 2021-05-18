@@ -52,7 +52,8 @@ class PingoDoceScrapper:
         options.headless = True
         options.add_argument("--window-size=1920,1200")
 
-        DRIVER_PATH = "./geckodriver"
+        # DRIVER_PATH = "./geckodriver"
+        DRIVER_PATH = "./geckodriver_2"
         driver = webdriver.Firefox(options=options, executable_path=DRIVER_PATH)
         search_url = self.BASE_URL.format(keyword)
         driver.get(search_url)
