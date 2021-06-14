@@ -52,7 +52,7 @@ class PingoDoceScrapper:
         options.add_argument("--no-sandbox")
         options.add_argument("--headless")
 
-        DRIVER_PATH = "./geckodriver"
+        DRIVER_PATH = "./geckodriver_linux"
         driver = webdriver.Firefox(options=options, executable_path=DRIVER_PATH)
         search_url = self.BASE_URL.format(keyword)
         driver.get(search_url)
