@@ -10152,3 +10152,1440 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbn
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1621292344922	Marionette	INFO	Stopped listening on port 60319
 1621292348204	Marionette	INFO	Stopped listening on port 60321
+1621331330504	geckodriver	INFO	Listening on 127.0.0.1:64065
+1621331330504	geckodriver	INFO	Listening on 127.0.0.1:64067
+1621331330504	geckodriver	INFO	Listening on 127.0.0.1:64066
+1621331330504	geckodriver	INFO	Listening on 127.0.0.1:64068
+1621331330507	geckodriver	INFO	Listening on 127.0.0.1:64069
+1621331331534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileFjYxts"
+1621331331534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileBjCDvW"
+1621331331534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileKJQJse"
+1621331331535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilefkNyGO"
+1621331331534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileTVH6bO"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621331332410	Marionette	INFO	Marionette enabled
+1621331332411	Marionette	INFO	Marionette enabled
+1621331332411	Marionette	INFO	Marionette enabled
+1621331332476	Marionette	INFO	Marionette enabled
+1621331332591	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331336968	Marionette	INFO	Listening on port 64104
+1621331336996	Marionette	INFO	Listening on port 64103
+1621331336999	Marionette	INFO	Listening on port 64101
+1621331337031	Marionette	INFO	Listening on port 64102
+1621331337053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331337054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331337055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331337059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331337108	Marionette	INFO	Listening on port 64100
+1621331337159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1621331347224	Marionette	INFO	Stopped listening on port 64103
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 599 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621331349252	Marionette	INFO	Stopped listening on port 64102
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=845573578, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=845573578, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=845573578 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621331360100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621331363669	Marionette	INFO	Stopped listening on port 64104
+1621331365735	Marionette	INFO	Stopped listening on port 64101
+1621331376606	Marionette	INFO	Stopped listening on port 64100
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621331530955	geckodriver	INFO	Listening on 127.0.0.1:64818
+1621331530956	geckodriver	INFO	Listening on 127.0.0.1:64819
+1621331530961	geckodriver	INFO	Listening on 127.0.0.1:64821
+1621331530964	geckodriver	INFO	Listening on 127.0.0.1:64820
+1621331530966	geckodriver	INFO	Listening on 127.0.0.1:64822
+1621331530972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileX91pOY"
+*** You are running in headless mode.
+1621331531487	Marionette	INFO	Marionette enabled
+1621331531970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileen9c5j"
+1621331531979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile7xnemk"
+1621331531982	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilenasagE"
+1621331531982	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileNkfGfa"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621331532885	Marionette	INFO	Marionette enabled
+1621331532887	Marionette	INFO	Marionette enabled
+1621331532890	Marionette	INFO	Marionette enabled
+1621331533021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331535697	Marionette	INFO	Listening on port 64835
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331535799	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331537439	Marionette	INFO	Listening on port 64866
+1621331537448	Marionette	INFO	Listening on port 64850
+1621331537450	Marionette	INFO	Listening on port 64865
+1621331537451	Marionette	INFO	Listening on port 64862
+1621331537516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331537518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331537519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331537533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1621331547304	Marionette	INFO	Stopped listening on port 64850
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 2808 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621331549416	Marionette	INFO	Stopped listening on port 64862
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1434617359, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1434617359, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1434617359 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1434617359 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621331553100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621331555883	Marionette	INFO	Stopped listening on port 64865
+1621331564372	Marionette	INFO	Stopped listening on port 64866
+1621331588478	Marionette	INFO	Stopped listening on port 64835
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621331613754	geckodriver	INFO	Listening on 127.0.0.1:65473
+1621331613757	geckodriver	INFO	Listening on 127.0.0.1:65474
+1621331613761	geckodriver	INFO	Listening on 127.0.0.1:65475
+1621331613764	geckodriver	INFO	Listening on 127.0.0.1:65476
+1621331613772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile5uuPZy"
+1621331613772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileZpyI1W"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621331614328	Marionette	INFO	Marionette enabled
+1621331614380	Marionette	INFO	Marionette enabled
+1621331614775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileYNAeFs"
+1621331614775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileJB2J7s"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621331615590	Marionette	INFO	Marionette enabled
+1621331615635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331617918	Marionette	INFO	Listening on port 65490
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331617987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331617989	Marionette	INFO	Listening on port 65489
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331618093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331618833	Marionette	INFO	Listening on port 65519
+1621331618879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331618984	Marionette	INFO	Listening on port 65520
+1621331619068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1621331624219	Marionette	INFO	Stopped listening on port 65490
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 3627 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621331628169	Marionette	INFO	Stopped listening on port 65489
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=583355070, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=583355070, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=583355070, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=583355070 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=583355070 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621331634100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621331635878	Marionette	INFO	Stopped listening on port 65519
+1621331644303	Marionette	INFO	Stopped listening on port 65520
+1621331741822	geckodriver	INFO	Listening on 127.0.0.1:49582
+1621331741823	geckodriver	INFO	Listening on 127.0.0.1:49584
+1621331741826	geckodriver	INFO	Listening on 127.0.0.1:49583
+1621331742843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileDfGM7X"
+1621331742844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofiledvqnUF"
+1621331742844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile7XcS6J"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621331743469	Marionette	INFO	Marionette enabled
+1621331743470	Marionette	INFO	Marionette enabled
+1621331743539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331747076	Marionette	INFO	Listening on port 49603
+1621331747133	Marionette	INFO	Listening on port 49604
+1621331747148	Marionette	INFO	Listening on port 49605
+1621331747186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331747226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331747227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+1621331750455	Marionette	INFO	Stopped listening on port 49605
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=923176751, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=923176751, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=923176751, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=923176751 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=923176751 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621331755100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 5602 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621331757712	Marionette	INFO	Stopped listening on port 49603
+1621331758075	Marionette	INFO	Stopped listening on port 49604
+1621331842112	geckodriver	INFO	Listening on 127.0.0.1:49999
+1621331842113	geckodriver	INFO	Listening on 127.0.0.1:50000
+1621331842119	geckodriver	INFO	Listening on 127.0.0.1:50001
+1621331842121	geckodriver	INFO	Listening on 127.0.0.1:50004
+1621331843136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileViIW2y"
+1621331843136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileWTnxwC"
+1621331843139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilefb7FMO"
+1621331843139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilexeExAT"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621331843853	Marionette	INFO	Marionette enabled
+1621331843853	Marionette	INFO	Marionette enabled
+1621331843854	Marionette	INFO	Marionette enabled
+1621331843978	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621331847374	Marionette	INFO	Listening on port 50029
+1621331847393	Marionette	INFO	Listening on port 50030
+1621331847409	Marionette	INFO	Listening on port 50024
+1621331847427	Marionette	INFO	Listening on port 50023
+1621331847432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331847448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331847449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621331847450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?62ed58e8-39cb-42a5-9d3c-3db8c598fcef, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1621331856851	Marionette	INFO	Stopped listening on port 50023
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1454593643, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1454593643, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1454593643, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1454593643 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1454593643 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 3395 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621331859061	Marionette	INFO	Stopped listening on port 50024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621331859761	Marionette	INFO	Stopped listening on port 50029
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621331859100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621331860874	Marionette	INFO	Stopped listening on port 50030
+1621332007068	geckodriver	INFO	Listening on 127.0.0.1:50528
+1621332007071	geckodriver	INFO	Listening on 127.0.0.1:50527
+1621332007074	geckodriver	INFO	Listening on 127.0.0.1:50529
+1621332007076	geckodriver	INFO	Listening on 127.0.0.1:50530
+1621332007081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileygTatp"
+*** You are running in headless mode.
+1621332007597	Marionette	INFO	Marionette enabled
+1621332008092	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileBnUej9"
+1621332008093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileEsGHl9"
+1621332008093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilezqnh5G"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621332009047	Marionette	INFO	Marionette enabled
+1621332009050	Marionette	INFO	Marionette enabled
+1621332009151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332012790	Marionette	INFO	Listening on port 50541
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332012953	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332014684	Marionette	INFO	Listening on port 50566
+1621332014687	Marionette	INFO	Listening on port 50565
+1621332014756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332014763	Marionette	INFO	Listening on port 50564
+1621332014777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332014857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+1621332024694	Marionette	INFO	Stopped listening on port 50541
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1883113381, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1883113381, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1883113381 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1883113381 line 1 > eval, line 1: unreachable code after return statement
+1621332027295	Marionette	INFO	Stopped listening on port 50565
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 3605 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621332028203	Marionette	INFO	Stopped listening on port 50566
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621332029100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621332030797	Marionette	INFO	Stopped listening on port 50564
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621332099799	geckodriver	INFO	Listening on 127.0.0.1:51111
+1621332099800	geckodriver	INFO	Listening on 127.0.0.1:51112
+1621332099803	geckodriver	INFO	Listening on 127.0.0.1:51113
+1621332099806	geckodriver	INFO	Listening on 127.0.0.1:51114
+1621332100819	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilejq2edS"
+1621332100820	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileLRGlgg"
+1621332100821	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileGCfPWz"
+1621332100822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileoUwlPt"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621332101687	Marionette	INFO	Marionette enabled
+1621332101687	Marionette	INFO	Marionette enabled
+1621332101688	Marionette	INFO	Marionette enabled
+1621332101801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332106545	Marionette	INFO	Listening on port 51144
+1621332106703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332106759	Marionette	INFO	Listening on port 51140
+1621332106869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332106952	Marionette	INFO	Listening on port 51147
+1621332106973	Marionette	INFO	Listening on port 51146
+1621332106977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332107031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+1621332113499	Marionette	INFO	Stopped listening on port 51144
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=272092285, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=272092285, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=272092285 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 1717 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621332118100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621332120401	Marionette	INFO	Stopped listening on port 51140
+1621332121673	Marionette	INFO	Stopped listening on port 51146
+1621332124087	Marionette	INFO	Stopped listening on port 51147
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileoUwlPt/protections.sqlite
+1621332407363	geckodriver	INFO	Listening on 127.0.0.1:51747
+1621332408379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileYFsGXA"
+*** You are running in headless mode.
+1621332408902	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332411750	Marionette	INFO	Listening on port 51754
+1621332411788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 5654 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621332418972	Marionette	INFO	Stopped listening on port 51754
+1621332419578	geckodriver	INFO	Listening on 127.0.0.1:51878
+1621332420590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileVjUh99"
+*** You are running in headless mode.
+1621332421276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332423917	Marionette	INFO	Listening on port 51885
+1621332424043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+1621332427005	Marionette	INFO	Stopped listening on port 51885
+1621332427532	geckodriver	INFO	Listening on 127.0.0.1:51960
+1621332428543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileIIsDZQ"
+*** You are running in headless mode.
+1621332429039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332431603	Marionette	INFO	Listening on port 51967
+1621332431669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2081122451, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2081122451, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2081122451 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621332434100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621332437400	Marionette	INFO	Stopped listening on port 51967
+1621332437840	geckodriver	INFO	Listening on 127.0.0.1:52074
+1621332438853	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileTtz14F"
+*** You are running in headless mode.
+1621332439347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332441764	Marionette	INFO	Listening on port 52081
+1621332441882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332451088	Marionette	INFO	Stopped listening on port 52081
+1621332630764	geckodriver	INFO	Listening on 127.0.0.1:52288
+1621332630767	geckodriver	INFO	Listening on 127.0.0.1:52287
+1621332630769	geckodriver	INFO	Listening on 127.0.0.1:52289
+1621332630771	geckodriver	INFO	Listening on 127.0.0.1:52290
+1621332631789	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilewecHkT"
+1621332631792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileVWjKTF"
+1621332631792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileAiZ5M7"
+1621332631793	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile02wdlN"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621332632555	Marionette	INFO	Marionette enabled
+1621332632557	Marionette	INFO	Marionette enabled
+1621332632555	Marionette	INFO	Marionette enabled
+1621332632649	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332636258	Marionette	INFO	Listening on port 52318
+1621332636349	Marionette	INFO	Listening on port 52316
+1621332636367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332636374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332636389	Marionette	INFO	Listening on port 52317
+1621332636392	Marionette	INFO	Listening on port 52312
+1621332636471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332636476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1903961492, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1903961492, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1903961492, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1903961492 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1903961492 line 1 > eval, line 1: unreachable code after return statement
+1621332646243	Marionette	INFO	Stopped listening on port 52318
+1621332647681	Marionette	INFO	Stopped listening on port 52316
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 3546 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621332649416	Marionette	INFO	Stopped listening on port 52312
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621332649100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621332651526	Marionette	INFO	Stopped listening on port 52317
+1621332676997	geckodriver	INFO	Listening on 127.0.0.1:52773
+1621332676999	geckodriver	INFO	Listening on 127.0.0.1:52771
+1621332677002	geckodriver	INFO	Listening on 127.0.0.1:52772
+1621332677004	geckodriver	INFO	Listening on 127.0.0.1:52774
+1621332678025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileX3t4xl"
+1621332678026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilenC6o2O"
+1621332678026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileWJ0GKp"
+1621332678026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileAsZdxT"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621332678846	Marionette	INFO	Marionette enabled
+1621332678846	Marionette	INFO	Marionette enabled
+1621332678849	Marionette	INFO	Marionette enabled
+1621332678983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332683027	Marionette	INFO	Listening on port 52802
+1621332683038	Marionette	INFO	Listening on port 52804
+1621332683091	Marionette	INFO	Listening on port 52803
+1621332683126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332683176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332683178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332683206	Marionette	INFO	Listening on port 52801
+1621332683272	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?62ed58e8-39cb-42a5-9d3c-3db8c598fcef, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1621332694219	Marionette	INFO	Stopped listening on port 52803
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1621332696188	Marionette	INFO	Stopped listening on port 52801
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileX3t4xl/protections.sqlite
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 4599 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621332699351	Marionette	INFO	Stopped listening on port 52804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=156241023, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=156241023, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=156241023 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=156241023 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621332702100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621332703843	Marionette	INFO	Stopped listening on port 52802
+1621332738754	geckodriver	INFO	Listening on 127.0.0.1:53268
+1621332738757	geckodriver	INFO	Listening on 127.0.0.1:53269
+1621332738760	geckodriver	INFO	Listening on 127.0.0.1:53267
+1621332738765	geckodriver	INFO	Listening on 127.0.0.1:53273
+1621332738767	geckodriver	INFO	Listening on 127.0.0.1:53271
+1621332738774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileDHW3uB"
+1621332738775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile9rf7sk"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621332739347	Marionette	INFO	Marionette enabled
+1621332739399	Marionette	INFO	Marionette enabled
+1621332739774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilehMKelt"
+1621332739778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilePlgnI6"
+1621332739783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileHEwNko"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1621332740799	Marionette	INFO	Marionette enabled
+1621332740827	Marionette	INFO	Marionette enabled
+1621332740942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332743677	Marionette	INFO	Listening on port 53285
+1621332743953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332743990	Marionette	INFO	Listening on port 53287
+1621332744049	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621332745845	Marionette	INFO	Listening on port 53322
+1621332745870	Marionette	INFO	Listening on port 53317
+1621332745906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332745911	Marionette	INFO	Listening on port 53315
+1621332745996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621332745999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k=arroz, line 150: unreachable code after return statement
+JavaScript warning: https://www.auchan.pt/Frontoffice/Scripts/bundle.min.js?5700bf01-6e5d-43e8-bade-be7d63479187, line 1: unreachable code after return statement
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.continente.pt/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Unable to read VR Path Registry from /Users/luisgoncalo/Library/Application Support/OpenVR/.openvr/openvrpaths.vrpath
+1621332753443	Marionette	INFO	Stopped listening on port 53285
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eO7zG6GhPbnIN9dahbnWn5817R3A2AWEjlpR17NmnVM.js line 1 > eval line 2221 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621332756487	Marionette	INFO	Stopped listening on port 53287
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=289845160, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=289845160, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=289845160, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=289845160 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=289845160 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223621332772100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1621332774985	Marionette	INFO	Stopped listening on port 53322
+1621332775462	Marionette	INFO	Stopped listening on port 53317
+1621332780933	Marionette	INFO	Stopped listening on port 53315
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileKgvwmw/bookmarkbackups/bookmarks-2021-05-20_11_VCFmyQaOislgj1HG+TzHYQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623708055368	geckodriver	INFO	Listening on 127.0.0.1:52423
+1623708055369	geckodriver	INFO	Listening on 127.0.0.1:52420
+1623708055368	geckodriver	INFO	Listening on 127.0.0.1:52424
+1623708055371	geckodriver	INFO	Listening on 127.0.0.1:52422
+1623708055377	geckodriver	INFO	Listening on 127.0.0.1:52421
+1623708056219	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileTWzVFV"
+1623708056219	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileZr8WL3"
+1623708056219	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilecfKqy0"
+1623708056223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileTE5xV1"
+1623708056235	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile68YGWV"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623708057143	Marionette	INFO	Marionette enabled
+1623708057145	Marionette	INFO	Marionette enabled
+1623708057147	Marionette	INFO	Marionette enabled
+1623708057149	Marionette	INFO	Marionette enabled
+1623708057163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileZr8WL3/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile68YGWV/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileTE5xV1/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilecfKqy0/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileTWzVFV/search.json.mozlz4", (void 0)))
+1623708061235	Marionette	INFO	Listening on port 52464
+1623708061300	Marionette	INFO	Listening on port 52466
+1623708061334	Marionette	INFO	Listening on port 52485
+1623708061343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708061357	Marionette	INFO	Listening on port 52475
+1623708061372	Marionette	INFO	Listening on port 52465
+1623708061449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708061460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708061468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708061476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708067685	geckodriver	INFO	Listening on 127.0.0.1:52898
+1623708067686	geckodriver	INFO	Listening on 127.0.0.1:52897
+1623708067689	geckodriver	INFO	Listening on 127.0.0.1:52899
+1623708067698	geckodriver	INFO	Listening on 127.0.0.1:52901
+1623708067704	geckodriver	INFO	Listening on 127.0.0.1:52903
+1623708067708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileUu3PJF"
+*** You are running in headless mode.
+1623708068252	Marionette	INFO	Marionette enabled
+1623708068713	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilemNxyOl"
+1623708068715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilesKc9QI"
+1623708068718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilebuYagJ"
+1623708068718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile5DvS4M"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileUu3PJF/search.json.mozlz4", (void 0)))
+1623708069911	Marionette	INFO	Marionette enabled
+1623708069936	Marionette	INFO	Marionette enabled
+1623708069951	Marionette	INFO	Marionette enabled
+1623708069957	Marionette	INFO	Marionette enabled
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1212226736, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1212226736, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1212226736 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jl_KA3DWLl1pqAl7nrDeic27IkrJD7_aVFtTlraQVeY.js line 1 > eval line 980 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623708072574	Marionette	INFO	Listening on port 52914
+1623708072683	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilebuYagJ/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilemNxyOl/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilesKc9QI/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile5DvS4M/search.json.mozlz4", (void 0)))
+1623708074966	Marionette	INFO	Listening on port 52949
+1623708075008	Marionette	INFO	Listening on port 52939
+1623708075088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708075094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708075099	Marionette	INFO	Listening on port 52940
+1623708075102	Marionette	INFO	Listening on port 52950
+1623708075185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708075193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623708081100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1233380180, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1233380180, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1233380180 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623708086100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jl_KA3DWLl1pqAl7nrDeic27IkrJD7_aVFtTlraQVeY.js line 1 > eval line 4403 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623708087307	Marionette	INFO	Stopped listening on port 52465
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1623708104469	geckodriver	INFO	Listening on 127.0.0.1:53700
+1623708104471	geckodriver	INFO	Listening on 127.0.0.1:53698
+1623708104474	geckodriver	INFO	Listening on 127.0.0.1:53699
+1623708104478	geckodriver	INFO	Listening on 127.0.0.1:53701
+1623708104490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile4kBYk2"
+1623708104491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileKMJGmx"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623708105017	Marionette	INFO	Marionette enabled
+1623708105028	Marionette	INFO	Marionette enabled
+1623708105489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileCeoQ7t"
+1623708105489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilevkUa1n"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileKMJGmx/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile4kBYk2/search.json.mozlz4", (void 0)))
+1623708106511	Marionette	INFO	Marionette enabled
+1623708106518	Marionette	INFO	Marionette enabled
+1623708107201	Marionette	INFO	Listening on port 53714
+1623708107330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708107622	Marionette	INFO	Listening on port 53715
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilevkUa1n/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileCeoQ7t/search.json.mozlz4", (void 0)))
+1623708107713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708108818	Marionette	INFO	Listening on port 53745
+1623708108860	Marionette	INFO	Listening on port 53744
+1623708108866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708108972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1134236386, line 1: unreachable code after return statement
+1623708128497	Marionette	INFO	Stopped listening on port 53715
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623708134100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623708133640	Marionette	INFO	Stopped listening on port 53744
+1623708144662	Marionette	INFO	Stopped listening on port 53745
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1623708433689	geckodriver	INFO	Listening on 127.0.0.1:54335
+1623708433699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile2MM1S2"
+*** You are running in headless mode.
+1623708434113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile2MM1S2/search.json.mozlz4", (void 0)))
+1623708435631	Marionette	INFO	Listening on port 54340
+1623708435656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708456580	geckodriver	INFO	Listening on 127.0.0.1:54420
+1623708456589	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile0pgKt0"
+*** You are running in headless mode.
+1623708457039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile0pgKt0/search.json.mozlz4", (void 0)))
+1623708458757	Marionette	INFO	Listening on port 54425
+1623708458783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708461076	Marionette	INFO	Stopped listening on port 54425
+1623708503316	geckodriver	INFO	Listening on 127.0.0.1:54483
+1623708503325	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileUo0C0W"
+*** You are running in headless mode.
+1623708503805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileUo0C0W/search.json.mozlz4", (void 0)))
+1623708505689	Marionette	INFO	Listening on port 54488
+1623708505727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708508241	Marionette	INFO	Stopped listening on port 54488
+1623708523355	geckodriver	INFO	Listening on 127.0.0.1:54551
+1623708523375	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileK6L6QL"
+*** You are running in headless mode.
+1623708523802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileK6L6QL/search.json.mozlz4", (void 0)))
+1623708525319	Marionette	INFO	Listening on port 54556
+1623708525360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708529646	Marionette	INFO	Stopped listening on port 54556
+1623708873464	geckodriver	INFO	Listening on 127.0.0.1:54693
+1623708873474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile69915U"
+*** You are running in headless mode.
+1623708873940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile69915U/search.json.mozlz4", (void 0)))
+1623708875823	Marionette	INFO	Listening on port 54698
+1623708875880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708896602	geckodriver	INFO	Listening on 127.0.0.1:54779
+1623708896612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofiles2CkMp"
+*** You are running in headless mode.
+1623708897170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofiles2CkMp/search.json.mozlz4", (void 0)))
+1623708898881	Marionette	INFO	Listening on port 54784
+1623708898903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623708941688	geckodriver	INFO	Listening on 127.0.0.1:54863
+1623708941701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileypEn2Y"
+*** You are running in headless mode.
+1623708942145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileypEn2Y/search.json.mozlz4", (void 0)))
+1623708943872	Marionette	INFO	Listening on port 54868
+1623708943987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709044793	geckodriver	INFO	Listening on 127.0.0.1:54973
+1623709045807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileNrV48s"
+*** You are running in headless mode.
+1623709046240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileNrV48s/search.json.mozlz4", (void 0)))
+1623709047855	Marionette	INFO	Listening on port 54980
+1623709047888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709076361	geckodriver	INFO	Listening on 127.0.0.1:55056
+1623709077382	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileoxniIy"
+*** You are running in headless mode.
+1623709077819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileoxniIy/search.json.mozlz4", (void 0)))
+1623709079516	Marionette	INFO	Listening on port 55063
+1623709079556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709089580	geckodriver	INFO	Listening on 127.0.0.1:55137
+1623709090593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileT1l9NZ"
+*** You are running in headless mode.
+1623709091027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileT1l9NZ/search.json.mozlz4", (void 0)))
+1623709092595	Marionette	INFO	Listening on port 55144
+1623709092695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709203751	geckodriver	INFO	Listening on 127.0.0.1:55247
+1623709204770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilePP9oZ0"
+*** You are running in headless mode.
+1623709205291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilePP9oZ0/search.json.mozlz4", (void 0)))
+1623709207063	Marionette	INFO	Listening on port 55254
+1623709207161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709210044	Marionette	INFO	Stopped listening on port 55254
+1623709355818	geckodriver	INFO	Listening on 127.0.0.1:55362
+1623709356832	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile6jysRc"
+*** You are running in headless mode.
+1623709357284	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile6jysRc/search.json.mozlz4", (void 0)))
+1623709358821	Marionette	INFO	Listening on port 55369
+1623709358926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709364944	Marionette	INFO	Stopped listening on port 55369
+1623709372284	geckodriver	INFO	Listening on 127.0.0.1:55422
+1623709373301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileePP4Kf"
+*** You are running in headless mode.
+1623709373768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileePP4Kf/search.json.mozlz4", (void 0)))
+1623709375399	Marionette	INFO	Listening on port 55429
+1623709375493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709378249	Marionette	INFO	Stopped listening on port 55429
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileePP4Kf/protections.sqlite
+1623709673215	geckodriver	INFO	Listening on 127.0.0.1:55624
+1623709674237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofiledlnZiU"
+*** You are running in headless mode.
+1623709674688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofiledlnZiU/search.json.mozlz4", (void 0)))
+1623709676254	Marionette	INFO	Listening on port 55631
+1623709676314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709679623	Marionette	INFO	Stopped listening on port 55631
+1623709785239	geckodriver	INFO	Listening on 127.0.0.1:55704
+1623709785249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilev0sqBy"
+*** You are running in headless mode.
+1623709785688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilev0sqBy/search.json.mozlz4", (void 0)))
+1623709787210	Marionette	INFO	Listening on port 55709
+1623709787327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709811669	Marionette	INFO	Stopped listening on port 55709
+1623709991819	geckodriver	INFO	Listening on 127.0.0.1:55843
+1623709991819	geckodriver	INFO	Listening on 127.0.0.1:55844
+1623709991819	geckodriver	INFO	Listening on 127.0.0.1:55846
+1623709991819	geckodriver	INFO	Listening on 127.0.0.1:55845
+1623709991843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile8NUo7T"
+1623709991843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileLH9Fxs"
+1623709991843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofiledY5w4N"
+1623709991843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileEJ7EPh"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623709992681	Marionette	INFO	Marionette enabled
+1623709992686	Marionette	INFO	Marionette enabled
+1623709992687	Marionette	INFO	Marionette enabled
+1623709992700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile8NUo7T/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileEJ7EPh/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofiledY5w4N/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileLH9Fxs/search.json.mozlz4", (void 0)))
+1623709995712	Marionette	INFO	Listening on port 55864
+1623709995786	Marionette	INFO	Listening on port 55866
+1623709995794	Marionette	INFO	Listening on port 55863
+1623709995822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709995824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709995826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623709995887	Marionette	INFO	Listening on port 55865
+1623709995936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=994687090, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=994687090, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=994687090 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710006100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623710014376	Marionette	INFO	Stopped listening on port 55863
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623710016724	Marionette	INFO	Stopped listening on port 55864
+1623710019103	Marionette	INFO	Stopped listening on port 55866
+1623710022321	Marionette	INFO	Stopped listening on port 55865
+1623710032922	geckodriver	INFO	Listening on 127.0.0.1:56354
+1623710032923	geckodriver	INFO	Listening on 127.0.0.1:56356
+1623710032925	geckodriver	INFO	Listening on 127.0.0.1:56355
+1623710032928	geckodriver	INFO	Listening on 127.0.0.1:56357
+1623710032946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileLSwrkI"
+1623710032946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileShxm9G"
+1623710032947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileahnsJI"
+1623710032947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileLk63PW"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623710033746	Marionette	INFO	Marionette enabled
+1623710033747	Marionette	INFO	Marionette enabled
+1623710033748	Marionette	INFO	Marionette enabled
+1623710033758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileahnsJI/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileLk63PW/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileLSwrkI/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileShxm9G/search.json.mozlz4", (void 0)))
+1623710036562	Marionette	INFO	Listening on port 56377
+1623710036619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710036627	Marionette	INFO	Listening on port 56376
+1623710036652	Marionette	INFO	Listening on port 56374
+1623710036720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710036724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710036725	Marionette	INFO	Listening on port 56375
+1623710036826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1834788747, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1834788747, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1834788747 line 1 > eval, line 1: unreachable code after return statement
+1623710044309	Marionette	INFO	Stopped listening on port 56377
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710048100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623710050630	Marionette	INFO	Stopped listening on port 56375
+1623710052881	Marionette	INFO	Stopped listening on port 56374
+1623710053474	Marionette	INFO	Stopped listening on port 56376
+1623710155504	geckodriver	INFO	Listening on 127.0.0.1:56928
+1623710155506	geckodriver	INFO	Listening on 127.0.0.1:56929
+1623710155511	geckodriver	INFO	Listening on 127.0.0.1:56930
+1623710155513	geckodriver	INFO	Listening on 127.0.0.1:56931
+1623710155533	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilemW0TyN"
+1623710155534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilexrOhpS"
+1623710155534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilebBdrvF"
+1623710155534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilezPuI21"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623710156416	Marionette	INFO	Marionette enabled
+1623710156418	Marionette	INFO	Marionette enabled
+1623710156425	Marionette	INFO	Marionette enabled
+1623710156444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilexrOhpS/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilemW0TyN/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilebBdrvF/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilezPuI21/search.json.mozlz4", (void 0)))
+1623710159999	Marionette	INFO	Listening on port 56949
+1623710160081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710160106	Marionette	INFO	Listening on port 56950
+1623710160132	Marionette	INFO	Listening on port 56948
+1623710160153	Marionette	INFO	Listening on port 56951
+1623710160200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710160203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710160207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=506867098, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=506867098, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=506867098 line 1 > eval, line 1: unreachable code after return statement
+1623710168139	Marionette	INFO	Stopped listening on port 56948
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710168100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623710170952	Marionette	INFO	Stopped listening on port 56951
+1623710172463	Marionette	INFO	Stopped listening on port 56949
+1623710176626	Marionette	INFO	Stopped listening on port 56950
+1623710273473	geckodriver	INFO	Listening on 127.0.0.1:57466
+1623710273473	geckodriver	INFO	Listening on 127.0.0.1:57464
+1623710273473	geckodriver	INFO	Listening on 127.0.0.1:57467
+1623710273473	geckodriver	INFO	Listening on 127.0.0.1:57465
+1623710273491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileoWz78E"
+1623710273492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilekYg1LD"
+1623710273492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilenqexlY"
+1623710273492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilehWMVZK"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623710274161	Marionette	INFO	Marionette enabled
+1623710274162	Marionette	INFO	Marionette enabled
+1623710274163	Marionette	INFO	Marionette enabled
+1623710274173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilenqexlY/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilekYg1LD/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileoWz78E/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilehWMVZK/search.json.mozlz4", (void 0)))
+1623710276949	Marionette	INFO	Listening on port 57486
+1623710276953	Marionette	INFO	Listening on port 57484
+1623710277023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710277025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710277063	Marionette	INFO	Listening on port 57487
+1623710277128	Marionette	INFO	Listening on port 57485
+1623710277146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710277234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1263419290, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1263419290, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1263419290 line 1 > eval, line 1: unreachable code after return statement
+1623710280787	Marionette	INFO	Stopped listening on port 57486
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710283100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623710297359	Marionette	INFO	Stopped listening on port 57484
+1623710297742	Marionette	INFO	Stopped listening on port 57485
+1623710303741	Marionette	INFO	Stopped listening on port 57487
+1623710309925	geckodriver	INFO	Listening on 127.0.0.1:57930
+1623710309925	geckodriver	INFO	Listening on 127.0.0.1:57929
+1623710309930	geckodriver	INFO	Listening on 127.0.0.1:57933
+1623710309936	geckodriver	INFO	Listening on 127.0.0.1:57936
+1623710309939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileY0As1n"
+1623710309945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileZZfvsn"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623710310428	Marionette	INFO	Marionette enabled
+1623710310437	Marionette	INFO	Marionette enabled
+1623710310940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilesYFVQt"
+1623710310940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileqoDRxN"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileY0As1n/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileZZfvsn/search.json.mozlz4", (void 0)))
+1623710311679	Marionette	INFO	Marionette enabled
+1623710311691	Marionette	INFO	Marionette enabled
+1623710312238	Marionette	INFO	Listening on port 57947
+1623710312352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710312381	Marionette	INFO	Listening on port 57941
+1623710312439	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileqoDRxN/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilesYFVQt/search.json.mozlz4", (void 0)))
+1623710313554	Marionette	INFO	Listening on port 57975
+1623710313667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710313739	Marionette	INFO	Listening on port 57976
+1623710313852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=971496684, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=971496684, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=971496684 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710323100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623710324627	Marionette	INFO	Stopped listening on port 57976
+1623710324936	Marionette	INFO	Stopped listening on port 57975
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623710325662	Marionette	INFO	Stopped listening on port 57947
+1623710326671	Marionette	INFO	Stopped listening on port 57941
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileY0As1n/protections.sqlite
+1623710354847	geckodriver	INFO	Listening on 127.0.0.1:58409
+1623710354852	geckodriver	INFO	Listening on 127.0.0.1:58410
+1623710354854	geckodriver	INFO	Listening on 127.0.0.1:58411
+1623710354856	geckodriver	INFO	Listening on 127.0.0.1:58412
+1623710354860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileyEgC8H"
+1623710354871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileeWSyoo"
+1623710354873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileSB5lO4"
+1623710354874	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileZg1dy6"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623710355665	Marionette	INFO	Marionette enabled
+1623710355666	Marionette	INFO	Marionette enabled
+1623710355666	Marionette	INFO	Marionette enabled
+1623710355683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileZg1dy6/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileSB5lO4/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileyEgC8H/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileeWSyoo/search.json.mozlz4", (void 0)))
+1623710358445	Marionette	INFO	Listening on port 58433
+1623710358498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710358511	Marionette	INFO	Listening on port 58432
+1623710358622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710358635	Marionette	INFO	Listening on port 58429
+1623710358650	Marionette	INFO	Listening on port 58417
+1623710358715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710358717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=138870465, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=138870465, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=138870465 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710363100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1623710363010	Marionette	INFO	Stopped listening on port 58433
+1623710365233	Marionette	INFO	Stopped listening on port 58417
+1623710368368	Marionette	INFO	Stopped listening on port 58432
+1623710372478	Marionette	INFO	Stopped listening on port 58429
+1623710412301	geckodriver	INFO	Listening on 127.0.0.1:58840
+1623710412301	geckodriver	INFO	Listening on 127.0.0.1:58839
+1623710412302	geckodriver	INFO	Listening on 127.0.0.1:58841
+1623710412313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileOIwQaG"
+1623710412314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileOHZKUS"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623710412924	Marionette	INFO	Marionette enabled
+1623710412935	Marionette	INFO	Marionette enabled
+1623710413333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilez17Oyu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileOHZKUS/search.json.mozlz4", (void 0)))
+1623710413919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileOIwQaG/search.json.mozlz4", (void 0)))
+1623710414837	Marionette	INFO	Listening on port 58853
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilez17Oyu/search.json.mozlz4", (void 0)))
+1623710414926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710414938	Marionette	INFO	Listening on port 58852
+1623710415038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710415735	Marionette	INFO	Listening on port 58878
+1623710415841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=551499099, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=551499099 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710421100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623710424496	Marionette	INFO	Stopped listening on port 58878
+1623710425684	Marionette	INFO	Stopped listening on port 58853
+1623710426228	Marionette	INFO	Stopped listening on port 58852
+1623710499982	geckodriver	INFO	Listening on 127.0.0.1:59233
+1623710499982	geckodriver	INFO	Listening on 127.0.0.1:59235
+1623710499982	geckodriver	INFO	Listening on 127.0.0.1:59234
+1623710499996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile5d18gM"
+1623710499996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileuGBnpf"
+1623710499996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileuOiccX"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623710500564	Marionette	INFO	Marionette enabled
+1623710500564	Marionette	INFO	Marionette enabled
+1623710500573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileuOiccX/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofile5d18gM/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileuGBnpf/search.json.mozlz4", (void 0)))
+1623710503000	Marionette	INFO	Listening on port 59250
+1623710503115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710503207	Marionette	INFO	Listening on port 59249
+1623710503219	Marionette	INFO	Listening on port 59248
+1623710503305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710503307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1747899048, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1747899048 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710513100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623710511991	Marionette	INFO	Stopped listening on port 59250
+1623710514267	Marionette	INFO	Stopped listening on port 59249
+1623710521822	Marionette	INFO	Stopped listening on port 59248
+1623710904544	geckodriver	INFO	Listening on 127.0.0.1:59760
+1623710904544	geckodriver	INFO	Listening on 127.0.0.1:59759
+1623710904551	geckodriver	INFO	Listening on 127.0.0.1:59761
+1623710904554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileGv7OB4"
+1623710904560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilehLyIWL"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1623710905061	Marionette	INFO	Marionette enabled
+1623710905071	Marionette	INFO	Marionette enabled
+1623710905559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilegqx8D2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileGv7OB4/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilehLyIWL/search.json.mozlz4", (void 0)))
+1623710906201	Marionette	INFO	Marionette enabled
+1623710907151	Marionette	INFO	Listening on port 59774
+1623710907197	Marionette	INFO	Listening on port 59768
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilegqx8D2/search.json.mozlz4", (void 0)))
+1623710907299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710907302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623710908161	Marionette	INFO	Listening on port 59798
+1623710908186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1111083195, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1111083195, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1111083195 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623710911100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623710920645	Marionette	INFO	Stopped listening on port 59774
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1623710929845	Marionette	INFO	Stopped listening on port 59798
+1623710940167	Marionette	INFO	Stopped listening on port 59768
+1623711010537	geckodriver	INFO	Listening on 127.0.0.1:60207
+1623711010537	geckodriver	INFO	Listening on 127.0.0.1:60208
+1623711010542	geckodriver	INFO	Listening on 127.0.0.1:60209
+1623711010553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileFgFoOq"
+*** You are running in headless mode.
+1623711011068	Marionette	INFO	Marionette enabled
+1623711011552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilenj96Uq"
+1623711011553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--window-size=1920,1200" "--disable-dev-shm-usage" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileX3SuVy"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileFgFoOq/search.json.mozlz4", (void 0)))
+1623711012233	Marionette	INFO	Marionette enabled
+1623711012243	Marionette	INFO	Marionette enabled
+1623711012982	Marionette	INFO	Listening on port 60218
+1623711013116	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofilenj96Uq/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/v4/3vhnc86x3zbgw1cgxrbz01fr0000gn/T/rust_mozprofileX3SuVy/search.json.mozlz4", (void 0)))
+1623711014662	Marionette	INFO	Listening on port 60237
+1623711014776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623711014856	Marionette	INFO	Listening on port 60238
+1623711014980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 77: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/wro/dia_custom1_js-a1668aede06ef61c184918833fd80b1d.js, line 89: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1883906451, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1883906451, line 1: unreachable code after return statement
+JavaScript warning: https://lojaonline.minipreco.pt/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1883906451 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://api.brainsins.com/RecSinsAPI/api/page/trackBrainSinsData.json?bsdata=%7B%22pageType%22%3A%22home%22%2C%22language%22%3A%229863%22%2C%22token%22%3A%22BS-2074072313-1%22%2C%22bsCoId%22%3A%223623711018100%22%7D&callback=bsTrackBTEventCallback, line 1: SyntaxError: unexpected token: ':'
+1623711022882	Marionette	INFO	Stopped listening on port 60237
+1623711024902	Marionette	INFO	Stopped listening on port 60218
+1623711027806	Marionette	INFO	Stopped listening on port 60238
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

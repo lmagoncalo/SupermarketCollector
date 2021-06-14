@@ -1,9 +1,11 @@
+import multiprocessing
 import os
 from enum import Enum
-from threading import Thread
+from multiprocessing import Process
+import time
 
 from flask import Flask, render_template
-from flask import request, jsonify
+from flask import request
 
 from AuchanScrapper import AuchanScrapper
 from ContinenteScrapper import ContinenteScrapper
@@ -47,29 +49,6 @@ def thread_function(supermarket, keyword, results):
     results.append(products)
 
 
-def search_keyword(keyword):
-    supermarkets = [Supermarket.CONTINENTE, Supermarket.AUCHAN, Supermarket.PINGODOCE,
-                    Supermarket.INTERMARCHE, Supermarket.MINIPRECO]
-
-    threads = list()
-    results = list()
-    for index in range(len(supermarkets)):
-        print(supermarkets[index])
-        t = Thread(target=thread_function, args=(supermarkets[index], keyword, results))
-        threads.append(t)
-        t.start()
-
-    for index, thread in enumerate(threads):
-        thread.join()
-
-    # Flatten list
-    products = [p for sublist in results for p in sublist]
-
-    # To sort the list in place...
-    products = sorted(products, key=lambda x: x.price_kg)
-
-    return products
-
 def obj_dict(obj):
     return obj.__dict__
 
@@ -86,17 +65,67 @@ def index():
 def search():
     keyword = request.args.get('keyword')
     print(keyword)
-    products = search_keyword(keyword)
-    results = []
+
+    supermarkets = [Supermarket.MINIPRECO,
+                    Supermarket.PINGODOCE, Supermarket.INTERMARCHE]
+
+    start = time.time()
+    with multiprocessing.Manager() as manager:
+        results = manager.list()
+        processes = list()
+        for index in range(len(supermarkets)):
+            p = Process(target=thread_function, args=(supermarkets[index], keyword, results))
+            processes.append(p)
+            p.start()
+
+        for process in processes:
+            process.join()
+
+        print(results)
+
+        # Flatten list
+        products = [p for sublist in results for p in sublist]
+
+        # To sort the list in place...
+        products = sorted(products, key=lambda x: x.price_kg)
+
+        results = list()
+        for p in products:
+            results.append(p.__dict__)
+        end = time.time()
+        print(end - start)
+
+    return render_template('web_app.html', results=results)
+
+
+def search_test(keyword):
+    supermarkets = [Supermarket.AUCHAN, Supermarket.MINIPRECO,
+                    Supermarket.PINGODOCE, Supermarket.INTERMARCHE]
+
+    start = time.time()
+    results = list()
+    processes = list()
+    for index in range(len(supermarkets)):
+        p = Process(target=thread_function, args=(supermarkets[index], keyword, results))
+        processes.append(p)
+        p.start()
+
+    for process in processes:
+        process.join()
+
+    # Flatten list
+    products = [p for sublist in results for p in sublist]
+
+    # To sort the list in place...
+    products = sorted(products, key=lambda x: x.price_kg)
+
+    results = list()
     for p in products:
         results.append(p.__dict__)
-
-    # return jsonify(results)
-    return render_template('web_app.html', results=results)
+    end = time.time()
+    print(end - start)
 
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     app.run(host="0.0.0.0", port=port)
-
-

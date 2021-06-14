@@ -1,4 +1,3 @@
-import os
 import re
 
 from selenium import webdriver
@@ -51,13 +50,14 @@ class MiniPrecoScrapper:
     def search(self, keyword):
         count = 0
 
-        chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+        options = Options()
+        options.add_argument("--window-size=1920,1200")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--headless")
 
-        driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
+        DRIVER_PATH = "./geckodriver"
+        driver = webdriver.Firefox(options=options, executable_path=DRIVER_PATH)
 
         search_url = self.BASE_URL.format(keyword)
         driver.get(search_url)
@@ -91,7 +91,7 @@ class MiniPrecoScrapper:
             self.products.append(MiniPrecoProduct(title_, image_, price_uni_, price_kg_))
 
         driver.close()
-        print(count, "products found.")
+        print(self.products[0].supermarket, " - ", count, "products found.")
 
     def print_products(self):
         print("Produtos do Mini Preço")
