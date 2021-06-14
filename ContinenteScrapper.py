@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 
+from config import GOOGLE_CHROME_PATH, CHROMEDRIVER_PATH
 from product import Product
 
 
@@ -35,13 +36,11 @@ class ContinenteScrapper:
         count = 0
 
         options = Options()
-        # options.add_argument("--window-size=1920,1200")
-        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
-        options.add_argument("--headless")
+        options.binary_location = GOOGLE_CHROME_PATH
 
-        DRIVER_PATH = "./chromedriver"
-        driver = webdriver.Firefox(options=options, executable_path=DRIVER_PATH)
+        driver = webdriver.Firefox(options=options, executable_path=CHROMEDRIVER_PATH)
 
         search_url = self.BASE_URL.format(keyword)
         driver.get(search_url)
