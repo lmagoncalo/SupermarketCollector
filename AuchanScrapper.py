@@ -43,7 +43,7 @@ class AuchanScrapper:
         options.add_argument("--no-sandbox")
         options.binary_location = GOOGLE_CHROME_PATH
 
-        driver = webdriver.Firefox(options=options, executable_path=CHROMEDRIVER_PATH)
+        driver = webdriver.Chrome(options=options, executable_path=CHROMEDRIVER_PATH)
 
         search_url = self.BASE_URL.format(keyword)
         driver.get(search_url)
